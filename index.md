@@ -1,1 +1,1 @@
-!("https://leonowski.github.io/cybertoaster.jpg")
+![Cybertoaster.com]("https://leonowski.github.io/cybertoaster.jpg")
