@@ -1,1 +1,1 @@
-![Cybertoaster.com](/images/cybertoaster.jpg)
+![Cybertoaster.com](/images/grogu.jpg)
